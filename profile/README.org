@@ -1,1 +1,1 @@
-Lisp-forward distro for alien hackers
+Lisp/scheme-forward distro for alien hackers
